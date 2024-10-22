@@ -3,7 +3,7 @@
 Danh sách thành viên tham gia dự án
 | STT | Họ tên | MSSV |
 |:----:|:------:|:-----:|
-| 1. | Lương Thị Bích Hằng| |
+| 1. | Lương Thị Bích Hằng| 075305020765 |
 | 2. | Phạm Hải Anh | |
 | 3. | Nguyễn Hà Nam | |
 | 4. | Trần Kim Thành | |
